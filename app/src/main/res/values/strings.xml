@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_here_the_kilograms">Enter here the kilograms:</string>
+    <string name="enter_kilo_grams">enter kilo grams</string>
+    <string name="pounds">Pounds</string>
+    <string name="textview">TextView</string>
+    <string name="convert">Convert</string>
+</resources>
